@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>tomjakeray</title>
+  <subtitle>就４個沒用的肥宅</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://tomjakeray.github.io/"/>
+  <updated>2017-01-05T09:07:14.000Z</updated>
+  <id>http://tomjakeray.github.io/</id>
+  
+  <author>
+    <name>Li,Kuan-Cheng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>咦？！</title>
+    <link href="http://tomjakeray.github.io/2017/01/05/open/"/>
+    <id>http://tomjakeray.github.io/2017/01/05/open/</id>
+    <published>2017-01-05T09:05:49.000Z</published>
+    <updated>2017-01-05T09:07:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>TryTry GitHub Page 功能</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;TryTry GitHub Page 功能&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
